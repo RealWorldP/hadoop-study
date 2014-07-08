@@ -1,0 +1,10 @@
+*.iml
+*.class
+*.zip
+*.rar
+*.via
+*.tmp
+*.err
+/.idea
+/target
+/classes
